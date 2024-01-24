@@ -1,0 +1,16 @@
+baseURL = 'https://docs.lemmynsfw.com/'
+languageCode = 'en-us'
+title = 'LemmyNSFW Docs'
+
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+theme = "hugo-book"
+
+[params]
+# (Optional, default light) Sets color theme: light, dark or auto.
+# Theme 'auto' switches between dark and light modes based on browser/os preferences
+BookTheme = 'dark'
+BookLogo = 'lemmynsfw.png'
+BookRepo = 'https://github.com/lemmynsfw/docs'
+BookCommitPath = 'commit'
+BookEditPath = 'edit/main'

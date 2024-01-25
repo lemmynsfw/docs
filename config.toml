@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'LemmyNSFW Docs'
 
 enableGitInfo = true
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 theme = "hugo-book"
 
 [params]
